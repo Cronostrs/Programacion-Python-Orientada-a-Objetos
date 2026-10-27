@@ -53,3 +53,15 @@ El repositorio contiene implementaciones de casos de estudio orientados a la res
 * [Real Python: Python 3 Object-Oriented Programming](https://realpython.com/python3-object-oriented-programming/)
 * [El Libro de Python: Programación Orientada a Objetos](https://ellibrodepython.com/programacion-orientada-a-objetos)
 * [Medium: Overloading (Sobrecargar) Operadores en Python](https://medium.com/@LuisMBaezCo/overloading-sobrecargar-operadores-en-python-5d7a75e2bfdf)
+
+## 🎓 Créditos y Uso de este Material
+
+Este repositorio es una **guía de aprendizaje de Python** desarrollada por el profesor **Leonardo Muños**. 
+
+### 📝 Condiciones de uso:
+* **Uso libre:** Puedes usar, copiar, modificar y adaptar este código para tus prácticas, tareas y proyectos personales.
+* **Autoría:** Si compartes este código o lo incluyes en otros proyectos públicos, debes mantener los créditos del profesor original.
+* **Licencia:** Este proyecto está protegido bajo la **Licencia MIT**. Consulta el archivo `LICENSE` para más detalles.
+Usa el código con precaución.
+¿Quieres que te ayude a redactar una introducción completa para el README.md que explique de qué trata la guía de Python, o necesitas ayuda con los comandos para subir estos cambios desde la terminal?
+
